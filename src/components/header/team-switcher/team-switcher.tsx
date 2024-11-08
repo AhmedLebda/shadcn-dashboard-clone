@@ -10,7 +10,7 @@ import TeamSwitcherMenu from "./popover/menu"
 import AddTeamDialogHeader from "./dialog/header"
 import AddTeamDialogContent from "./dialog/content"
 import AddTeamDialogFooter from "./dialog/footer"
-import CustomAvatar from "./custom-avatar"
+import CustomAvatar from "../custom-avatar"
 // ShadCn-ui components
 import { Button } from "@/components/ui/button"
 import { Dialog, DialogContent } from "@/components/ui/dialog"

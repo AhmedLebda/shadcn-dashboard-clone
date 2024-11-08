@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils"
 import { Check, PlusCircle } from "lucide-react"
 import { groups, Team } from "@/data/team-switcher"
 
-import CustomAvatar from "../custom-avatar"
+import CustomAvatar from "../../custom-avatar"
 import {
   Command,
   CommandEmpty,
