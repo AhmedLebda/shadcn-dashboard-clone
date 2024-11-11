@@ -91,3 +91,36 @@ export const overviewChartData = [
 		total: Math.floor(Math.random() * 5000) + 1000,
 	},
 ];
+
+export const overviewSalesData = [
+	{
+		id: 1,
+		name: "Olivia Martin",
+		email: "olivia@gmail.com",
+		amount: "$450",
+	},
+	{
+		id: 2,
+		name: "Emily Davis",
+		email: "emily@gmail.com",
+		amount: "$320",
+	},
+	{
+		id: 3,
+		name: "Michael Johnson",
+		email: "michael@gmail.com",
+		amount: "$280",
+	},
+	{
+		id: 4,
+		name: "Sarah Wilson",
+		email: "sarah@gmail.com",
+		amount: "$250",
+	},
+	{
+		id: 5,
+		name: "Daniel Williams",
+		email: "daniel@gmail.com",
+		amount: "$220",
+	},
+];
